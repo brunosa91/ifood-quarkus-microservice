@@ -4,10 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/ifood/pom.xml" />
-        <option value="$PROJECT_DIR$/pedido/pom.xml" />
-        <option value="$PROJECT_DIR$/cadastro/pom.xml" />
-        <option value="$PROJECT_DIR$/market_place/pom.xml" />
+        <option value="$PROJECT_DIR$/ifood-api/pom.xml" />
       </list>
     </option>
   </component>
