@@ -1,4 +1,4 @@
-package io.github.brunosa91;
+package com.cadastro;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

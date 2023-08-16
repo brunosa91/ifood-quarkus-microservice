@@ -1,4 +1,4 @@
-package io.github.brunosa91;
+package com.cadastro;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

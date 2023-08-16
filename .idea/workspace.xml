@@ -5,64 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706ccdb9-39ad-45ca-8418-fdfb5762989d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ifood.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ifood.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/.mvn/wrapper/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/docker/Dockerfile.jvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/docker/Dockerfile.native" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/docker/Dockerfile.native-micro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/java/com/api/ifood/GreetingConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/java/com/api/ifood/GreetingResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/java/com/api/ifood/MyEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/main/resources/import.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/test/java/com/api/ifood/GreetingResourceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood/src/test/java/com/api/ifood/GreetingResourceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_place/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/io/github/brunosa91/GreetingResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/resources/META-INF/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/resources/META-INF/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/test/java/io/github/brunosa91/GreetingResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/test/java/io/github/brunosa91/GreetingResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +40,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
