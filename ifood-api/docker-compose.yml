@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  db:
+    container_name: postgres_postgres
+    image: postgres:14
+    environment:
+      - "POSTGRES_DB=cadastro"
+      - "POSTGRES_USER=postgres"
+      - "POSTGRES_PASSWORD=admin"
+
+    ports:
+      - "5432:5432"
