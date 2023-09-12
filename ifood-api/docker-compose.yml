@@ -11,3 +11,28 @@ services:
 
     ports:
       - "5432:5432"
+  jaeger_ifood:
+    container_name: jaeger_ifood
+    image: jaegertracing/all-in-one:1.48
+    ports:
+      - "6831:6831/udp"
+      - "6832:6832/udp"
+      - "5778:5778"
+      - "16686:16686"
+      - "4317:4317"
+      - "4318:4318"
+      - "14250:14250"
+      - "14268:14268"
+      - "14269:14269"
+      - "9411:9411"
+  prometheus-ifood:
+    container_name: prometheus-ifood
+    build:
+      dockerfile: ./Dockerfile
+    ports:
+      - '9090:9090'
+  grafana-ifood:
+    container_name: grafana-ifood
+    image: grafana/grafana-enterprise
+    ports:
+      - '3000:3000'

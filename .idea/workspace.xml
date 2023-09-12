@@ -5,18 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706ccdb9-39ad-45ca-8418-fdfb5762989d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/HelloWorldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ifood.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ifood.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadastro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/GreetingResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/HelloWorldMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/RestauranteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/controller/RestauranteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/RestauranteGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/RestauranteGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/model/RestauranteModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/model/RestauranteModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestauranteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestauranteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/Localizacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/entities/Localizacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/Prato.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/entities/Prato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/RestauranteEntidade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadastro/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifood-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/test/java/com/cadastro/GreetingResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/test/java/com/cadastro/GreetingResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.jvm" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.jvm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.legacy-jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.native" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.native-micro" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/src/main/docker/Dockerfile.native-micro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ifood-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ifood-api/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marketplace/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedido/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pedido/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +44,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -52,31 +69,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/018045631/Downloads/code-with-quarkus/code-with-quarkus&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/projeto_estudo/ifood/cadastro/src/main/java/com/cadastro/app/dto/localizacao",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.cadastro.infra" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projeto_estudo\ifood\cadastro\src\main\java\com\cadastro\app\dto\localizacao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projeto_estudo\ifood\ifood-api\config" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cadastro.infra.entities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cadastro.domain.model" />
       <recent name="com.cadastro.infra.entities" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn quarkus:build" />
+      <command value="mvn clean install -DskipTests" />
+      <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Docker.ifood-api.postgres_cadastro: Compose Deployment">
+  <component name="RunManager" selected="Docker.ifood-api.prometheus-ifood: Compose Deployment">
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
       <deployment type="docker-compose.yml">
         <settings />
@@ -86,6 +116,19 @@
     <configuration name="ifood-api: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
+          <option name="sourceFilePath" value="ifood-api/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="ifood-api.jaeger_ifood: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="jaeger_ifood" />
+            </list>
+          </option>
           <option name="sourceFilePath" value="ifood-api/docker-compose.yml" />
         </settings>
       </deployment>
@@ -104,8 +147,23 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration name="ifood-api.prometheus-ifood: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="prometheus-ifood" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="ifood-api/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.ifood-api.prometheus-ifood: Compose Deployment" />
+        <item itemvalue="Docker.ifood-api.jaeger_ifood: Compose Deployment" />
         <item itemvalue="Docker.ifood-api.postgres_cadastro: Compose Deployment" />
         <item itemvalue="Docker.ifood-api: Compose Deployment" />
       </list>

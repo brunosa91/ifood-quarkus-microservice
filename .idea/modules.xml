@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cadastro/cadastro.iml" filepath="$PROJECT_DIR$/cadastro/cadastro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ifood.iml" filepath="$PROJECT_DIR$/.idea/ifood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifood-api/ifood-api.iml" filepath="$PROJECT_DIR$/ifood-api/ifood-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marketplace/marketplace.iml" filepath="$PROJECT_DIR$/marketplace/marketplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedido/pedido.iml" filepath="$PROJECT_DIR$/pedido/pedido.iml" />
     </modules>
   </component>
 </project>

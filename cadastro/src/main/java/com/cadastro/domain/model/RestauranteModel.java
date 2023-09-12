@@ -1,9 +1,16 @@
 package com.cadastro.domain.model;
 
-import com.cadastro.infra.Localizacao;
+import com.cadastro.infra.entities.Localizacao;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.util.Date;
-
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class RestauranteModel {
 
     public Long id;
@@ -15,7 +22,7 @@ public class RestauranteModel {
     public String nome;
 
 
-    public Localizacao localizacao;
+    public LocalizacaoModel localizacao;
 
     public Date dataCriacao;
 
