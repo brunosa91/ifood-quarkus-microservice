@@ -1,6 +1,5 @@
 package com.cadastro.domain.model;
 
-import com.cadastro.infra.entities.Localizacao;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

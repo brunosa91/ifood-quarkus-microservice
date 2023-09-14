@@ -11,10 +11,6 @@ q
 Aifood-api/src/main/java/io/github/brunosa91/GreetingResource.java,1\c\1c0a13146bf1a505d378e9fdb6c848c5426bc3ed
 >
 pedido/pom.xml,4\d\4d92e6b45ae07660948f3a551ee81283d8e809e1
-}
-Mcadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestaurante.java,e\c\ec1d722fc235aa9b9af86ccbf786ddb5d7d0c918
-‚
-Rcadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestauranteImple.java,6\7\67d56ad7500773d7f0242772b7c8746119962f26
 c
 3ifood-api/src/main/resources/application.properties,b\6\b6f8a26db3be3649946cb8f72bf511042a0ed9a0
 C
@@ -27,10 +23,6 @@ A
 ifood-api/pom.xml,b\8\b805ec583896620a340cdd724b696b08b0b4bbb4
 I
 marketplace/.dockerignore,c\b\cb9f9c66345362145f0617a58aaf5dee67a0bb42
-z
-Jcadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestaurante.java,6\3\637df9e2df380b60fc9da5eeb5d4aaa3b450d1c1
-~
-Ncadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestauranteImpl.java,1\3\1322aca2fc7c3fa33d0def416022c6b1126f948c
 D
 ifood-api/Dockerfile,f\0\f04fb3aad1e0c7cfdfee899c0c69fb043dd1dbd5
 @
@@ -43,13 +35,5 @@ H
 Qcadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java,a\2\a26a16155257e2931907cc6e638662aabc46c474
 z
 Jcadastro/src/main/java/com/cadastro/infra/repositories/RepositoryImpl.java,7\d\7d96a47a65993b61a29f772ba6f634ffd20ccb82
-ƒ
-Scadastro/src/main/java/com/cadastro/infra/mapper/RestauranteMapperDataProvider.java,1\4\14ce01e33e46c2c6369d4b117da67bc5b8ad010f
-u
-Ecadastro/src/main/java/com/cadastro/app/mapper/RestauranteMapper.java,a\9\a94b5167b951989d8e763f700057d5a986df317d
-w
-Gcadastro/src/main/java/com/cadastro/app/service/RestauranteService.java,4\b\4bd4f82620b0d3eedd74a97214758cdda7e18beb
-{
-Kcadastro/src/main/java/com/cadastro/app/service/RestauranteServiceImpl.java,5\6\5601e3d7535669ba741c385e3f7555fd20351399
 ‚
 Rcadastro/src/main/java/com/cadastro/app/dto/localizacao/LocalizacaoDtoRequest.java,2\7\27f614c5254af199e88c134f719d76448c7a5cd1

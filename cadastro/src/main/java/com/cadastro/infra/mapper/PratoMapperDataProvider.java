@@ -2,14 +2,13 @@ package com.cadastro.infra.mapper;
 
 import com.cadastro.domain.model.RestauranteModel;
 import com.cadastro.infra.entities.RestauranteEntidade;
-import jakarta.enterprise.context.ApplicationScoped;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.MappingConstants;
 import org.mapstruct.MappingTarget;
 
 @Mapper(componentModel = MappingConstants.ComponentModel.CDI)
-public interface RestauranteMapperDataProvider {
+public interface PratoMapperDataProvider {
 
 
     RestauranteModel entityToModel(RestauranteEntidade restauranteEntidade);

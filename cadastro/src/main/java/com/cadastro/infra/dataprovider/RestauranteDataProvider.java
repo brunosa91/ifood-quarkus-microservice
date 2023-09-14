@@ -38,5 +38,19 @@ public class RestauranteDataProvider implements RestauranteGateway {
 
     }
 
+    @Transactional
+    @Override
+    public void atualizarRestaurante(RestauranteModel restauranteModel, Long id) {
+
+        RestauranteEntidade restauranteEntidade=  restauranteRepository.findById(id);
+
+        restauranteMapperDataProvider.modelToEntityupdate(restauranteEntidade, restauranteModel);
+
+
+        restauranteRepository.persist(restauranteMapperDataProvider.modelToEntity(restauranteModel));
+
+
+    }
+
 
 }

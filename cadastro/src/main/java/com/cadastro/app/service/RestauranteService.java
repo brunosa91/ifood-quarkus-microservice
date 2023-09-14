@@ -7,5 +7,7 @@ public interface RestauranteService {
 
     void cadastrarRestaurante (RestauranteDtoRequest restauranteDtoRequest);
 
+    void atualizarRestaurante(RestauranteDtoRequest restauranteDtoRequest,Long id);
+
     RestauranteDtoResponse buscarRestaurantePorId(Long id);
 }
