@@ -1,6 +1,9 @@
 package com.cadastro.infra.mapper;
 
+import com.cadastro.domain.gateway.PratoGateway;
+import com.cadastro.domain.model.PratoModel;
 import com.cadastro.domain.model.RestauranteModel;
+import com.cadastro.infra.entities.Prato;
 import com.cadastro.infra.entities.RestauranteEntidade;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
@@ -11,14 +14,13 @@ import org.mapstruct.MappingTarget;
 public interface PratoMapperDataProvider {
 
 
-    RestauranteModel entityToModel(RestauranteEntidade restauranteEntidade);
+    PratoModel entityToModel(Prato prato);
 
-    RestauranteEntidade modelToEntity(RestauranteModel restauranteModel);
+    Prato modelToEntity(PratoModel pratoModel);
 
     @Mapping(target = "id", ignore = true)
-    @Mapping(target = "dataCriacao", ignore = true)
-    @Mapping(target = "localizacao", ignore = true)
-    void modelToEntityupdate(@MappingTarget RestauranteEntidade restauranteEntidade,RestauranteModel restauranteModel);
+    @Mapping(target = "restauranteEntidade", ignore = true)
+    void modelToEntityupdate(@MappingTarget Prato prato,PratoModel pratoModel);
 
 
 }

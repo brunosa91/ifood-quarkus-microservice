@@ -31,9 +31,5 @@ L
 ifood-api/docker-compose.yml,1\7\17dc4b27610dd22004f6a3f25b3afa786eec6d29
 H
 ifood-api/prometheus.yml,6\d\6d4ebfd7133ebe5b2a60a91a5d08e2820422beca
-Å
-Qcadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java,a\2\a26a16155257e2931907cc6e638662aabc46c474
-z
-Jcadastro/src/main/java/com/cadastro/infra/repositories/RepositoryImpl.java,7\d\7d96a47a65993b61a29f772ba6f634ffd20ccb82
 Ç
 Rcadastro/src/main/java/com/cadastro/app/dto/localizacao/LocalizacaoDtoRequest.java,2\7\27f614c5254af199e88c134f719d76448c7a5cd1

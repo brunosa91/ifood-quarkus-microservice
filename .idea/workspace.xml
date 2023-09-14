@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706ccdb9-39ad-45ca-8418-fdfb5762989d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1322aca2fc7c3fa33d0def416022c6b1126f948c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14ce01e33e46c2c6369d4b117da67bc5b8ad010f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bd4f82620b0d3eedd74a97214758cdda7e18beb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/5601e3d7535669ba741c385e3f7555fd20351399" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/637df9e2df380b60fc9da5eeb5d4aaa3b450d1c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67d56ad7500773d7f0242772b7c8746119962f26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a94b5167b951989d8e763f700057d5a986df317d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec1d722fc235aa9b9af86ccbf786ddb5d7d0c918" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d96a47a65993b61a29f772ba6f634ffd20ccb82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a26a16155257e2931907cc6e638662aabc46c474" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/3/1322aca2fc7c3fa33d0def416022c6b1126f948c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/4/14ce01e33e46c2c6369d4b117da67bc5b8ad010f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/b/4bd4f82620b0d3eedd74a97214758cdda7e18beb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/6/5601e3d7535669ba741c385e3f7555fd20351399" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/637df9e2df380b60fc9da5eeb5d4aaa3b450d1c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/7/67d56ad7500773d7f0242772b7c8746119962f26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a94b5167b951989d8e763f700057d5a986df317d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ec1d722fc235aa9b9af86ccbf786ddb5d7d0c918" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d96a47a65993b61a29f772ba6f634ffd20ccb82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/2/a26a16155257e2931907cc6e638662aabc46c474" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/controller/RestauranteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/controller/RestauranteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/model/RestauranteModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/model/RestauranteModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestauranteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/BuscarRestauranteImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/atualizarRestaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/AtualizarRestaurante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/PratosDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/PratosDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/RestauranteDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/RestauranteDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/RestauranteMapperDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/RestauranteMapperDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/PratoMapperDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/PratoMapperDataProvider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +70,15 @@
       <recent name="C:\projeto_estudo\ifood\cadastro\src\main\java\com\cadastro\app\dto\localizacao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projeto_estudo\ifood\cadastro\src\main\java\com\cadastro\infra\repositories" />
       <recent name="C:\projeto_estudo\ifood\ifood-api\config" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.cadastro.infra.entities" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cadastro.infra.repositories" />
+      <recent name="" />
       <recent name="com.cadastro.infra.mapper" />
       <recent name="com.cadastro.domain.model" />
       <recent name="com.cadastro.infra.entities" />
