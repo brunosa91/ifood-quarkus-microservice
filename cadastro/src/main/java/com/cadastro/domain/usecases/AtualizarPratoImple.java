@@ -8,7 +8,7 @@ public class AtualizarPratoImple implements AtualizarPrato{
     @Inject
     PratoGateway pratoGateway;
     @Override
-    public void atualizarPrato(PratoModel pratoModel, Long id) {
-        pratoGateway.atualizarPrato(pratoModel, id);
+    public PratoModel atualizarPrato(PratoModel pratoModel, Long id) {
+       return pratoGateway.atualizarPrato(pratoModel, id);
     }
 }

@@ -7,5 +7,5 @@ import jakarta.enterprise.inject.Default;
 @Default
 
 public interface CadastrarRestaurante {
-    void cadastrarRestaurante(RestauranteModel restauranteModel);
+    RestauranteModel cadastrarRestaurante(RestauranteModel restauranteModel);
 }

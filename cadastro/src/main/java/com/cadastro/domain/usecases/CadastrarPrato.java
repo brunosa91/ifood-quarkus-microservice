@@ -4,5 +4,5 @@ import com.cadastro.domain.model.PratoModel;
 
 public interface CadastrarPrato {
 
-    void cadastrarPrato(PratoModel pratoModel);
+    PratoModel cadastrarPrato(PratoModel pratoModel);
 }

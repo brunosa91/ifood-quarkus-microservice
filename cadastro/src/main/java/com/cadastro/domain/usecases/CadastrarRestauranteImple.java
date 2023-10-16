@@ -14,8 +14,8 @@ public class CadastrarRestauranteImple  implements CadastrarRestaurante{
     RestauranteGateway restauranteGateway;
 
     @Override
-    public void cadastrarRestaurante(RestauranteModel restauranteModel) {
-        restauranteGateway.cadastrarRestaurante(restauranteModel);
+    public RestauranteModel cadastrarRestaurante(RestauranteModel restauranteModel) {
+         return restauranteGateway.cadastrarRestaurante(restauranteModel);
     }
 
 

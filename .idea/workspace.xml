@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="706ccdb9-39ad-45ca-8418-fdfb5762989d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d96a47a65993b61a29f772ba6f634ffd20ccb82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a26a16155257e2931907cc6e638662aabc46c474" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d96a47a65993b61a29f772ba6f634ffd20ccb82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/2/a26a16155257e2931907cc6e638662aabc46c474" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/controller/RestauranteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/controller/RestauranteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/app/service/RestauranteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/PratoGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/PratoGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/RestauranteGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/gateway/RestauranteGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/AtualizarPrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/AtualizarPrato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/AtualizarPratoImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/AtualizarPratoImple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarPrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarPrato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestauranteImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadastrarRestauranteImple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadratarPratoImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/domain/usecases/CadratarPratoImple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/PratosDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/PratosDataProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/PratoMapperDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/mapper/PratoMapperDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/RestauranteDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/dataprovider/RestauranteDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/PratoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/PratoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/PratoRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/PratoRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/src/main/java/com/cadastro/infra/repositories/RestauranteRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +61,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/projeto_estudo/ifood/cadastro/src/main/java/com/cadastro/app/dto/localizacao&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/projeto_estudo/ifood",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.cadastro.infra" />

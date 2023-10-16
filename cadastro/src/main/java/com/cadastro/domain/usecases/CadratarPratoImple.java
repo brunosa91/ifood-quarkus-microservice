@@ -8,7 +8,8 @@ public class CadratarPratoImple implements CadastrarPrato {
     @Inject
     PratoGateway pratoGateway;
     @Override
-    public void cadastrarPrato(PratoModel pratoModel) {
-        pratoGateway.cadastrarPrato(pratoModel);
+    public PratoModel cadastrarPrato(PratoModel pratoModel) {
+        return pratoGateway.cadastrarPrato(pratoModel);
+
     }
 }

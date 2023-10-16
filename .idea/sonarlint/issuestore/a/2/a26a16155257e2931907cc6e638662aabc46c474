@@ -1,0 +1,9 @@
+
+`
+java:S1128">Remove this unused import 'com.cadastro.infra.entities.Prato'.(Õé“Šúÿÿÿÿ8¤¼“×±1
+l
+java:S1128"ORemove this unused import 'io.quarkus.hibernate.orm.panache.PanacheRepository'.(Ïš‚Ï8¤¼“×±1
+k
+java:S1128"IRemove this unused import 'jakarta.enterprise.context.ApplicationScoped'.(±ÇŸëøÿÿÿÿ8¥¼“×±1
+`
+java:S1128">Remove this unused import 'jakarta.enterprise.inject.Default'.(Ûê£Íüÿÿÿÿ8¥¼“×±1

@@ -5,7 +5,7 @@ import com.cadastro.app.dto.restaurante.RestauranteDtoResponse;
 
 public interface RestauranteService {
 
-    void cadastrarRestaurante (RestauranteDtoRequest restauranteDtoRequest);
+    RestauranteDtoResponse cadastrarRestaurante (RestauranteDtoRequest restauranteDtoRequest);
 
     void atualizarRestaurante(RestauranteDtoRequest restauranteDtoRequest,Long id);
 

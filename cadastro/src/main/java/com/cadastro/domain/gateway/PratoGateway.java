@@ -1,13 +1,12 @@
 package com.cadastro.domain.gateway;
 
 import com.cadastro.domain.model.PratoModel;
-import com.cadastro.domain.model.RestauranteModel;
 
 public interface PratoGateway {
 
     PratoModel buscarPrato(Long id);
 
-    void cadastrarPrato(PratoModel pratoModel);
+    PratoModel cadastrarPrato(PratoModel pratoModel);
 
-    void atualizarPrato(PratoModel pratoModel, Long id);
+    PratoModel atualizarPrato(PratoModel pratoModel, Long id);
 }

@@ -4,5 +4,5 @@ import com.cadastro.domain.model.PratoModel;
 
 public interface AtualizarPrato {
 
-    void atualizarPrato(PratoModel pratoModel, Long id);
+    PratoModel atualizarPrato(PratoModel pratoModel, Long id);
 }

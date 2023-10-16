@@ -5,9 +5,8 @@ import com.cadastro.domain.model.PratoModel;
 import com.cadastro.infra.entities.Prato;
 import com.cadastro.infra.mapper.PratoMapperDataProvider;
 import com.cadastro.infra.repositories.PratoRepository;
-import com.cadastro.infra.repositories.RepositoryImpl;
-import com.cadastro.infra.repositories.RestauranteRepository;
 import jakarta.inject.Inject;
+import jakarta.ws.rs.NotFoundException;
 
 public class PratosDataProvider implements PratoGateway {
 
@@ -20,23 +19,31 @@ public class PratosDataProvider implements PratoGateway {
     public PratoModel buscarPrato(Long id) {
         Prato prato = repository.findById(id);
 
+
+
         return pratoMapperDataProvider.entityToModel(prato);
     }
 
     @Override
-    public void cadastrarPrato(PratoModel pratoModel) {
+    public PratoModel cadastrarPrato(PratoModel pratoModel) {
 
         repository.persist(pratoMapperDataProvider.modelToEntity(pratoModel));
+
+        return pratoModel;
 
     }
 
     @Override
-    public void atualizarPrato(PratoModel pratoModel, Long id) {
+    public PratoModel atualizarPrato(PratoModel pratoModel, Long id) {
+
+
+
         Prato prato = repository.findById(id);
+
 
         pratoMapperDataProvider.modelToEntityupdate(prato,pratoModel);
 
-        repository.persist(pratoMapperDataProvider.modelToEntity(pratoModel));
+        return pratoMapperDataProvider.entityToModel(repository.atualizarPrato(pratoMapperDataProvider.modelToEntity(pratoModel))) ;
 
 
 

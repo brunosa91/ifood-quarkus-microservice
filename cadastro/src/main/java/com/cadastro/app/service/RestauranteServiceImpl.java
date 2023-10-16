@@ -11,25 +11,28 @@ import jakarta.inject.Inject;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
-@AllArgsConstructor(onConstructor_= {@Inject})
-@NoArgsConstructor
+
 @ApplicationScoped
 public class RestauranteServiceImpl implements RestauranteService {
 
+    @Inject
      CadastrarRestaurante restaurante;
+    @Inject
 
     BuscarRestaurante buscarRestaurante;
+    @Inject
 
     AtualizarRestaurante atualizarRestaurante;
 
+    @Inject
 
     RestauranteMapper restauranteMapper;
 
 
     @Override
-    public void cadastrarRestaurante(RestauranteDtoRequest restauranteDtoRequest) {
+    public RestauranteDtoResponse cadastrarRestaurante(RestauranteDtoRequest restauranteDtoRequest) {
 
-        restaurante.cadastrarRestaurante(restauranteMapper.DtoToModelRestaurante(restauranteDtoRequest));
+        return restauranteMapper.ModelRestauranteToDto(restaurante.cadastrarRestaurante(restauranteMapper.DtoToModelRestaurante(restauranteDtoRequest))) ;
 
     }
 

@@ -30,10 +30,12 @@ public class RestauranteController {
     @Timed(name = "Tempo completo de busca")
     @POST
     public Response criarRestaurante (RestauranteDtoRequest restauranteDtoRequest){
-        restauranteService.cadastrarRestaurante(restauranteDtoRequest);
+        RestauranteDtoResponse restauranteDtoResponse = restauranteService.cadastrarRestaurante(restauranteDtoRequest);
 
-        return Response.created(URI.create("/restaurante")).build();
+        return Response.ok(restauranteDtoResponse).status(201).build();
     }
+
+    /*
 
     @Counted(name = "Quantidade de buscas de restaurante")
     @SimplyTimed(name = "tempo simples de busca")
@@ -45,7 +47,7 @@ public class RestauranteController {
 
         return Response.ok("deu certo, atualizo").build();
     }
-
+*/
     @Counted(name = "Quantidade de buscas de restaurante")
     @SimplyTimed(name = "tempo simples de busca")
     @Timed(name = "Tempo completo de busca")

@@ -9,4 +9,9 @@ import jakarta.enterprise.context.ApplicationScoped;
 public class PratoRepositoryImpl implements  PanacheRepositoryBase<Prato,Long>,PratoRepository{
 
 
+    @Override
+    public Prato atualizarPrato(Prato prato) {
+
+        return prato;
+    }
 }
